@@ -1,2 +1,1 @@
-# testcode
-Setting up a test repo for learning the GIT unsuals
+Setting up a test repo for learning the GIT hi its clear by kamal
